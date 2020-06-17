@@ -1,3 +1,13 @@
+$(document).ready(function(){
+    Slider = $('#slider').Swipe().data('Swipe');
+    Slider = $('#slider').Swipe({
+        auto: 3000,
+        continuous: false
+      }).data('Swipe');
+  });
+
+
+
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -14,7 +24,7 @@ for (i = 0; i < coll.length; i++) {
 }
 
 
-var TIMEOUT = 10000;
+/*var TIMEOUT = 10000;
  
 var interval = setInterval(handleNext, TIMEOUT);
  
@@ -43,4 +53,4 @@ function handleNext() {
  
   }
  
-}
+}*/
