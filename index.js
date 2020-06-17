@@ -14,7 +14,7 @@ for (i = 0; i < coll.length; i++) {
 }
 
 
-/*var TIMEOUT = 6000;
+var TIMEOUT = 10000;
  
 var interval = setInterval(handleNext, TIMEOUT);
  
@@ -44,4 +44,3 @@ function handleNext() {
   }
  
 }
-*/
