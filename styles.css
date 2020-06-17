@@ -349,18 +349,22 @@
       border-bottom:1px solid gray;
       background-color: rgb(41, 40, 40);
       color:gray;
+      margin-bottom:-5px;
   }
 
   #exp2 {
     border-bottom:1px solid gray;
     background-color: rgb(41, 40, 40);
     color:gray;
+    margin-bottom:8px;
+    
 }
 
 #exp3 {
     border-bottom:1px solid gray;
     background-color: rgb(41, 40, 40);
     color:gray;
+    
 }
 
 p{
