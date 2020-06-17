@@ -84,6 +84,10 @@
     -webkit-transform: scale(1);
     transform: scale(1);
   }
+
+  .abouttxt, .edu3{
+    color:rgb(105, 105, 105);
+  }
    
   /* Slides Background Color */
   .slide-1 {
