@@ -1,11 +1,3 @@
-$(document).ready(function(){
-    Slider = $('#slider').Swipe().data('Swipe');
-    Slider = $('#slider').Swipe({
-        auto: 3000,
-        continuous: false
-      }).data('Swipe');
-  });
-
 
 
 var coll = document.getElementsByClassName("collapsible");
